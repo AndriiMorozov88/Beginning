@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(208, 235, 233);
+}
+
+.ocean {
+    border: 1px solid black;
+    width: 30px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+    background-color: blue;
+
+}
+
+.infected {
+    border: 1px solid black;
+    width: 30px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+    background-color: rgb(197, 13, 13);
+}
+
+.uninfected {
+    border: 1px solid black;
+    width: 30px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+    background-color: rgb(101, 230, 97);
+}
+
+.titles {
+    font-size: 30pt;
+    font-weight: bolder;
+    clear: left;
+    padding: 10px;
+}
+
+.main {
+    clear: left;
+    padding: 10px;
+    font-weight: bolder;
+}
